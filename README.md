@@ -5,4 +5,6 @@
 **A growth mindset is synonymous with a love of learning.**
  *Perseverance, gumption traps, and maintaining a growth mindset*
  ***A growth mindset means that you thrive on challenge, and don’t see failure as a way to describe yourself but as a springboard for growth and developing your abilities. Your intelligence and talents are all susceptible to growth.This growth mindset is based on the belief that your basic qualities are things you can cultivate through your efforts. Although people may differ in every which way in their initial talents and aptitudes, interests, or temperaments, everyone can change and grow through application and experience***
- ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edweek.org)
+ > everything is hard before it's easy
+ ~~Growth Mindset to effort is not going to help students who are already trying hard and failing. ![This is an image]~~
+ (https://epe.brightspotcdn.com/fe/07/623f04754f06aff6f4b323fcedc9/growth-mindset-042021-1185654371.jpg)
