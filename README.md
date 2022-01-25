@@ -6,14 +6,14 @@
 
 ## A growth mindset is synonymous with a love of learning.
 
-### growth mindset is**
+### growth mindset is
 - freedom
 - embrace chalenge 
 - accept criticism
 - desire to learn 
 - build abilities
 
-### fixed mindset is**
+### fixed mindset is
  - is limiting
  - avoid chalenge
  - give up easily
