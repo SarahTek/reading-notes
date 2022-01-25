@@ -8,7 +8,7 @@
 
 ### growth mindset is
 - freedom
-- embrace chalenge 
+- embrace chalenge
 - accept criticism
 - desire to learn 
 - build abilities
