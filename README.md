@@ -4,13 +4,13 @@
 **-Growth mindset describes a way of viewing challenges and setbacks. People who have a growth mindset believe that even if they struggle with certain skills, their abilities aren’t set in stone. They think that with work, their skills can improve over time.-**
 
 ***A growth mindset is synonymous with a love of learning.***
-***growth mindset is***
+**growth mindset is**
 - freedom
 - embrace chalenge 
 - accept criticism
 - desire to learn 
 - build abilities
-***fixed mindset is***
+**fixed mindset is**
  - is limiting
  - avoid chalenge
  - give up easily
