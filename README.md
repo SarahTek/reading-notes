@@ -26,4 +26,4 @@
  
  ~~growth mindset is not effective~~
  
- >> everything is hard before it's easy
+ > #### everything is hard before it's easy
