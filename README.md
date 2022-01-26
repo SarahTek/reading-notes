@@ -1,4 +1,5 @@
 
+[codersComputer](https://sarahtek.github.io/reading-notes/codersComputer)
 
 # What is a growth mindset?
 
