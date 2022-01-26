@@ -9,17 +9,17 @@ allows you to write and manage text, especially the text that you write
 to build a web site. 
 
 ## What features should you look for in a text editor?
-* syntax highlighting
+* **syntax highlighting**
   * determines the color and style of source code displayed in the Visual Studio Code editor.
   * allows code in posts to be highlighted based on the language it's written in, to make it easier to read
-* code completion
+* **code completion**
   * A great feature of any text editing software is code completion. 
   * feature in some programming environments that speeds up the process of coding applications by reducing typos and other common mistakes.
-* a nice variety of themes
+* **a nice variety of themes**
   *  themes will allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes themes will affect other   aspects of your text editing
 software as well
   * reduce eye strain and fatigue
-* Extentsion
+* **Extentsion**
   * provide some plugin mechanism, or is scriptable, so a programmer can customize the editor with additional features – this is more advanced
   
   
@@ -36,7 +36,7 @@ to build a web site.
  # Introduction to using a terminal
  
  ### What is a terminal?
- A Terminal is your interface to the underlying operating system via a shell, usually bash. It is a command line. Back in the day, a Terminal was a screen+keyboard that was connected to a server. Today, it is usally just a progam.
+ A Terminal is your interface to the underlying operating system via a shell, usually **bash**. It is a command line. Back in the day, a Terminal was a screen+keyboard that was connected to a server. Today, it is usally just a progam.
  A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands.
  
  Within a terminal you have what is known as a **shell**.This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. There are various shells available but the most common one is called bash which stands for Bourne again shell. 
@@ -60,7 +60,7 @@ here are some basic commands prompts and how to use them.
 On Linux, the file system is case sensitive. This means that you could have files named file, File, and FILE in the same folder. Each file would have different contents – Linux treats capitalized letters and lower-case letters as different characters.
 the file command determines the file type of a file. It reports the file type in human readable format.
 
-Example of file extentsions
+### Example of file extentsions
 
  * file.exe - an executable file, or program.
  * file.txt - a plain text file.
@@ -76,8 +76,12 @@ Linux is an extension-less system. Files can have any extension they like or non
    * List the contents of a directory, including hidden files.
 
 
-Spaces in names
+#### Spaces in names
 
 Spaces in file and directory names are perfectly valid but we need to be a little careful with them. As you would remember, a space on the command line is how we seperate items.
- 
- ## To be Continued/Unfinished
+
+#### Escape Characters
+
+Another method is to use what is called an **escape character**, which is a backslash ( \ ). What the backslash does is escape (or nullify) the special meaning of the next character.
+
+
