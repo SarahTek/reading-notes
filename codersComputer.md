@@ -1,6 +1,4 @@
-# What Do Computer Coders Do?
-
-A computer coder, also called a computer programmer, designs, writes, and then tests code for computer software or mobile applications.
+# Topic Notes
 
 
 ## What is a Text Editor?
@@ -59,6 +57,27 @@ here are some basic commands prompts and how to use them.
 
 ## More about Files
 
+On Linux, the file system is case sensitive. This means that you could have files named file, File, and FILE in the same folder. Each file would have different contents – Linux treats capitalized letters and lower-case letters as different characters.
+the file command determines the file type of a file. It reports the file type in human readable format.
 
+Example of file extentsions
+
+ * file.exe - an executable file, or program.
+ * file.txt - a plain text file.
+ * file.png, file.gif, file.jpg - an image
+
+Everything is a file under Linux even directories.
+Linux is an extension-less system. Files can have any extension they like or none at all. Linux is case sensitive
+
+* **file**
+   * obtain information about what type of file a file or directory is.
+  
+* **ls -a**
+   * List the contents of a directory, including hidden files.
+
+
+Spaces in names
+
+Spaces in file and directory names are perfectly valid but we need to be a little careful with them. As you would remember, a space on the command line is how we seperate items.
  
  ## To be Continued/Unfinished
