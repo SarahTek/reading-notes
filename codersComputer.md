@@ -35,4 +35,30 @@ to build a web site.
   - An **IDE (Integrated Development Environment)** is really a suite ofdifferent software all coming together. An IDE is a text editor, a filemanager, a compiler, and a debugger all in one software package.
  
  
-## To be Continued/Unfinished
+ # Introduction to using a terminal
+ 
+ ### What is a terminal?
+ A Terminal is your interface to the underlying operating system via a shell, usually bash. It is a command line. Back in the day, a Terminal was a screen+keyboard that was connected to a server. Today, it is usally just a progam.
+ A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands.
+ 
+ Within a terminal you have what is known as a **shell**.This is a part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you. There are various shells available but the most common one is called bash which stands for Bourne again shell. 
+ 
+ If you would like to know which shell you are using you may use a command called echo to display a system variable stating your current shell. echo is a command which is used to display messages.
+
+## how to navigate in terminal
+Directory basically means a folder.
+here are some basic commands prompts and how to use them.
+ * _**cd**_ stands **(Change Directory)**. this command enables you to change directory.
+ * _**pwd**_ stands for **(Print Working Directory)**. It will print the full path to the current working directory.
+ * The _**mkdir**_ command stands for **(Make Directory)**.
+ * Using the **touch** command, we can create a file.
+ * The _**ls**_ command stands for **(List)**. We can use it to list all the contents of the specified directory, if no path is specified it will list everything in the current directory.
+ * _**clear**_ is used to clear the entire code. 
+ * The _**mv**_ command stands for **(Move)**. We can use this command to move files and directories from one place to another.
+ * The _**cp**_ command stands for **(Copy)**. its used to copy files from one place to another.
+
+## More about Files
+
+
+ 
+ ## To be Continued/Unfinished
