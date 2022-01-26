@@ -19,7 +19,7 @@ to build a web site.
   *  themes will allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes themes will affect other   aspects of your text editing
 software as well
   * reduce eye strain and fatigue
-* **Extentsion**
+* **Extension**
   * provide some plugin mechanism, or is scriptable, so a programmer can customize the editor with additional features – this is more advanced
   
   
