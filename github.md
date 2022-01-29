@@ -9,6 +9,7 @@
    * **command** is used to upload local repository content to a remote repository.
 
          
+     
      >> git tracks and every changes made to any file or directory.
 
      >> git minimizes the possiblity lossing a data.
