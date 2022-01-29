@@ -9,13 +9,17 @@
    * **command** is used to upload local repository content to a remote repository.
 
          
-     >> git tracks and every changes made to any file or directory
-     >> git minimizes the possiblity lossing a data
+     >> git tracks and every changes made to any file or directory.
+
+     >> git minimizes the possiblity lossing a data.
+
      >>Files in Git can reside in three main states: committed, modified and staged.
        
 
   ## Benefits of GitHub
 
-  > GitHub is an open-source repository hosting service, sort of like a cloud for code. 
+  > GitHub is an open-source repository hosting service, sort of like a cloud for code.
+
   > developers and programmers can upload the code they create and work collaboratively to improve it.
+
   > GitHub takes care of this problem by keeping track of all the changes that have been pushed to the repository.
