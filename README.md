@@ -1,6 +1,12 @@
 # table of content
-[github notes](github.md)
+
 [codersComputer](https://sarahtek.github.io/reading-notes/codersComputer)
+
+[github notes](github.md)
+
+[Day04-HTMLnotes](https://github.com/SarahTek/reading-notes/blob/main/Day04-HTMLnotes.md)
+
+
 
 # What is a growth mindset?
 
