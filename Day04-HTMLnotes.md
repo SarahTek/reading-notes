@@ -16,7 +16,7 @@
 
 
 HTML contains 6 heading levels, h1 to h6, 
-  * Anything in HTML  between <!-- and --> is a comment. 
+  * Anything in HTML between this tag  <!-   and --> is a comment. 
 
  #### Lists
    * unordered list (ul)
@@ -40,7 +40,7 @@ Semantic HTML is the correct use of HTML to reinforce the meaning of content on 
 
   ## Wireframe and Design
 
-     **What is wireframe?**
+      What is wireframe?
 
   Wireframes are simple black and white layouts that outline the specific size and placement of page elements, site features, conversion areas and navigation for your website.
 
