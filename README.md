@@ -1,8 +1,11 @@
 # table of content
 
 [codersComputer](https://sarahtek.github.io/reading-notes/codersComputer)
+
 [github notes](github.md)
+
 [Day04-HTMLnotes](https://github.com/SarahTek/reading-notes/blob/main/Day04-HTMLnotes.md)
+
 [Day05-Cssnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-CSSnotes.md)
 
 
