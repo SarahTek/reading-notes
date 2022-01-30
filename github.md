@@ -2,6 +2,7 @@
 
   + Git is a software that can be installed locally while GitHub is an online service that stores code pushed to it from computers running the Git tool.
   + GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+  
    * **git clone** coomand copies the repository from github to your local machine.
    * **Add**  command adds a change in the working directory to the staging area
    * **commit** Command captures a snapshot of the project's currently staged changes
