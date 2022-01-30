@@ -14,47 +14,33 @@
 
   >> attributes should always have a space between it , the attribute name followed by equal sign and attribute value wrapped by opening and closing quotation marks.
 
-### anatomy of an HTML document 
 
-!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <img src="" alt="My test image"> "using closing tag is optional"
-  </body>
-</html>
-
-HTML contains 6 heading levels, <h1> to <h6>, 
+HTML contains 6 heading levels, h1 to h6, 
   * Anything in HTML  between <!-- and --> is a comment. 
 
  #### Lists
-   * unordered list <ul>
-   * ordered list <ol>
+   * unordered list (ul)
+   * ordered list (ol)
 
 #### Links 
-  * too add a link we use anchor tag <a> followed by _href_ attribute.
-  ex. <a href="https://www.google.com">google.com</a>
+  * too add a link we use **anchor** tag  followed by _href_ attribute.
+  
 
   ## Sematics
     
 Semantic HTML is the correct use of HTML to reinforce the meaning of content on a web page.
 
    *  examples of sematic elements 
-       + <header>
-       + <main>
-       + <section>
-       + <article>
-       + <footer>
-       + <nav>
-
-
+       + header
+       + main
+       + section
+       + article
+       + footer
+       + nav
 
   ## Wireframe and Design
 
-     ### What is wireframe?
+     **What is wireframe?**
 
   Wireframes are simple black and white layouts that outline the specific size and placement of page elements, site features, conversion areas and navigation for your website.
 
