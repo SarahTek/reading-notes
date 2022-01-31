@@ -26,29 +26,34 @@
 
  ### Declaring a JavaScript Variable
  
- Creating a variable in JavaScript is called **"declaring"** a variable.
+  + Creating a variable in JavaScript is called **"declaring"** a variable.
 
  A variable declared without a value will have the value **undefined.**
 
-#### When to Use JavaScript var?
-Always declare JavaScript variables with **var, let, or const.**
+ When to Use JavaScript var?
 
- #### When to Use JavaScript const?
-If you want a general rule: always declare variables with **const.**
-If you think the value of the variable can change, use **let.**
+   Always declare JavaScript variables with **var, let, or const.**
 
- #### JavaScript Identifiers
-All JavaScript variables must be identified with unique names.
+  + When to Use JavaScript const?
+
+  + If you want a general rule: always declare variables with **const.**
+
+  + If you think the value of the variable can change, use **let.**
+
+  JavaScript Identifiers
+
+   + All JavaScript variables must be identified with unique names.
 These unique names are called **identifiers.**
 
- #### JavaScript Data Types
+  JavaScript Data Types
 
-text values are called *text strings*.
+Text values are called *text strings*.
 Strings are written inside double or single quotes
 Numbers are written without
 If you put a number in quotes, it will be treated as a text string.
 
- #### Declaring a JavaScript Variable
+  Declaring a JavaScript Variable
+
  + Creating a variable in JavaScript is called "declaring" a variable.
  Var 
 
