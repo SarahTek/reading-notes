@@ -1,13 +1,14 @@
 # table of content
 
-[codersComputer](https://sarahtek.github.io/reading-notes/codersComputer)
+[Day02-codersComputer](https://sarahtek.github.io/reading-notes/codersComputer)
 
-[github notes](github.md)
+[Day03-GitHubnotes](github.md)
 
 [Day04-HTMLnotes](https://github.com/SarahTek/reading-notes/blob/main/Day04-HTMLnotes.md)
 
 [Day05-Cssnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-CSSnotes.md)
 
+[Day05-Javascriptnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-JavascriptNotes.md)
 
 # What is a growth mindset?
 
