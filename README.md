@@ -8,7 +8,9 @@
 
 [Day05-Cssnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-CSSnotes.md)
 
-[Day05-Javascriptnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-JavascriptNotes.md)
+[Day06-Javascriptnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-JavascriptNotes.md)
+
+[Day07-javascriptnotes2](https://github.com/SarahTek/reading-notes/blob/main/Day07-javascript.md)
 
 # What is a growth mindset?
 
