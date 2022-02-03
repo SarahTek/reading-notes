@@ -12,6 +12,8 @@
 
 [Day07-javascriptnotes2](https://github.com/SarahTek/reading-notes/blob/main/Day07-javascript.md)
 
+[Day08-OperatorsandLoops](https://github.com/SarahTek/reading-notes/blob/main/Day08-OperatorsandLoops.md)
+
 # What is a growth mindset?
 
 **Growth mindset describes a way of viewing challenges and setbacks. People who have a growth mindset believe that even if they struggle with certain skills, their abilities aren’t set in stone. They think that with work, their skills can improve over time.**

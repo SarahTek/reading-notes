@@ -55,8 +55,10 @@ console.log(i);
 
 + A comparison operator compares its operands and returns a logical value based on whether the comparison is true
 
->>Equal(==) means true if the operand are equal
+>>Equal(==) means true if the operand are equal.
+
 >>Not equa (!==) means true if the operand are not equal.
+
 >>Strict equal(===) means true if the operands are equal and of the same type.
 
 
