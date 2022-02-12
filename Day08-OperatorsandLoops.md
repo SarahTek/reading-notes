@@ -21,7 +21,7 @@ it will execute those numbers 1 2 3 4
 
 ## do while loops
 
-A do...while loop is similar to a while loop, except that a do...while loop is guaranteed to execute at least one time.
+A **do...while** loop is similar to a while loop, except that a do...while loop is guaranteed to execute at least one time.
 example 
 
 let answer = '';

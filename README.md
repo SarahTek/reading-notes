@@ -1,4 +1,7 @@
-# table of content
+
+# Code 102 Reading Notes
+
+## Table of contents
 
 [Day02-codersComputer](https://sarahtek.github.io/reading-notes/codersComputer)
 
@@ -44,5 +47,15 @@
  > #### everything is hard before it's easy
 
 
-
 ## this is a change
+
+
+
+
+
+
+# Code 201 Reading Notes
+
+## Table of contents
+
+* Day01class
