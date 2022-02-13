@@ -59,4 +59,4 @@
 ## Table of contents
 
 
-* [class-01.md]()
+[class-01.md](https://github.com/SarahTek/reading-notes/blob/main/class-01.md)
