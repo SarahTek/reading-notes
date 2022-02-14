@@ -29,18 +29,32 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 
 1.[class-01.md](https://github.com/SarahTek/reading-notes/blob/main/class-01.md)
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+
+2 .
+
+3 .
+
+4 .
+
+5 .
+
+6 .
+
+7 .
+
+8 .
+
+9 .
+
+10 .
+
+11 .
+
+12 .
+
+13 .
+
+14 .
+
+15 .
 
