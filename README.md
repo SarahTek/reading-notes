@@ -13,7 +13,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 [Day04-HTMLnotes](./Day04-HTMLnotes.md)
 
-[Day05-Cssnotes](./Day05-CSSnotes.md)
+[Day05-CSSnotes](./Day05-CSSnotes.md)
 
 [Day06-Javascriptnotes](./Day05-JavascriptNotes.md)
 
@@ -32,7 +32,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 1.[class-01.md](./class-01.md)
 
-2 .
+2 .[class-02.md](./class-02.md)
 
 3 .
 
