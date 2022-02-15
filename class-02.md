@@ -94,13 +94,13 @@ Rules are made up of selectors and declarations that indicate what the elements 
 * `Assignment operators`: (assign a value to a variable)
 * `Arithmetic operators`: (perform a basic math)
 * `Comparison operators`: (compare two value and return 'true or False').
-* `Locgical Operators`: (combine expression and return 'true or False)
+* `Logical Operators`: (combine expression and return 'true or False)
 * `String Operators`: (combine multiple strings together).
 
 
 
 ## DECISIONS AND LOOPS
-* `==` is epual to
+* `==` is equal to
 * `===` strict equal to
 * `!=` is not equal to
 * `!==` strict not equal to
