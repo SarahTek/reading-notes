@@ -14,7 +14,7 @@ h6 is the smallest heading
 ## PARAGRAPHS
 A paragraph is used to define a block of similar text or content , image or link by using a < p> tag.
 
-We use < p> tags to define a paragraph.
+* We use < p> tags to define a paragraph.
 
 * white space means creating extra space ,tabs or line breaks before or after a text.
 
@@ -52,14 +52,22 @@ Rules are made up of selectors and declarations that indicate what the elements 
  **declarations**  within the block determines how the elements are formatted on a webpage.
 **Properties** indicate the aspects of the element you want to change.
 
-External CSS
+### External CSS
 
 * is a separate CSS file that can be accessed by creating a link within the head section it includes href type and rel.
 
-Internal CSS
+### Internal CSS
 
 * is used to define a style for a single HTML page
 
-CSS selectors
+### CSS selectors
 
-Css selectors are case sensitive, so they must match
+> Css selectors are case sensitive, so they must match
+
+* Universal selector: {} targets all the element on the page
+* Type selector: matches element names (h1, h2, h3)
+* ID selector: # element whose id attribute has a value
+* Child selector : li matches an elemnt that is a direct child of another
+
+
+# Javascript
