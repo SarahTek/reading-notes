@@ -6,19 +6,19 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 ## Table of contents
 
-[Day02-codersComputer](https://sarahtek.github.io/reading-notes/codersComputer)
+<!-- [Day02-codersComputer](https://sarahtek.github.io/reading-notes/codersComputer) -->
+[Day02-codersComputer](./Day02-codersComputer.md)
+[Day03-GitHubnotes](./Day03-GitHubnotes)
 
-[Day03-GitHubnotes](github.md)
+[Day04-HTMLnotes](./Day04-HTMLnotes.md)
 
-[Day04-HTMLnotes](https://github.com/SarahTek/reading-notes/blob/main/Day04-HTMLnotes.md)
+[Day05-Cssnotes](./Day05-CSSnotes.md)
 
-[Day05-Cssnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-CSSnotes.md)
+[Day06-Javascriptnotes](./Day05-JavascriptNotes.md)
 
-[Day06-Javascriptnotes](https://github.com/SarahTek/reading-notes/blob/main/Day05-JavascriptNotes.md)
+[Day07-javascriptnotes2](./Day07-javascript.md)
 
-[Day07-javascriptnotes2](https://github.com/SarahTek/reading-notes/blob/main/Day07-javascript.md)
-
-[Day08-OperatorsandLoops](https://github.com/SarahTek/reading-notes/blob/main/Day08-OperatorsandLoops.md)
+[Day08-OperatorsandLoops](./Day08-OperatorsandLoops.md)
 
 
 
@@ -28,7 +28,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 ## Table of contents
 
 
-1.[class-01.md](https://github.com/SarahTek/reading-notes/blob/main/class-01.md)
+1.[class-01.md](./class-01.md)
 
 2 .
 
