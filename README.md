@@ -1,6 +1,6 @@
 # About Me
 
-Hey everyone!My name is Sarah Teklemariam .I am a software development student at codefellows.My background is in Healthcare. I am so excited to begin my journey as a career in software development. 
+Hey everyone!My name is Sarah Teklemariam .I am a software development student at codefellows. My background is in Healthcare. I am so excited to begin my journey as a career in software development. 
 
 # Code 102 Reading Notes
 
@@ -8,6 +8,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 <!-- [Day02-codersComputer](https://sarahtek.github.io/reading-notes/codersComputer) -->
 [Day02-codersComputer](./Day02-codersComputer.md)
+
 [Day03-GitHubnotes](./Day03-GitHubnotes)
 
 [Day04-HTMLnotes](./Day04-HTMLnotes.md)
@@ -20,6 +21,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 [Day08-OperatorsandLoops](./Day08-OperatorsandLoops.md)
 
+[GrowthMindset.md](./GrowthMindset.md)
 
 
 
