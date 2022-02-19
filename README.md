@@ -34,7 +34,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 2 .[class-02.md](./class-02.md)
 
-3 .
+3 .[class-03.md](./class-03.md)
 
 4 .
 
@@ -59,4 +59,3 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 14 .
 
 15 .
-
