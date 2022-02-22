@@ -1,5 +1,5 @@
 # HTML
-**LINKS**
+## **LINKS**
 * links are created using < a></ a> tags , href is an attribute(specifies which page to link).
 example: 
 ```
@@ -33,15 +33,15 @@ linking to a specific part of the another page
 ```
 
 # Layouts
-**Building Blocks**
+## **Building Blocks**
 
 `block-level` elements starts in a new line and acts as the main building blocks of any layout.
 
 `inline box` flows between surrounding text.
 
-## position element
-`normal flow`: a block-level element appear in a new line 
 
+## Position element
+`normal flow`: a block-level element appear in a new line 
 
 `relative positioning`:exactlyu does as a static postioning but it allows you to  shifts an element from the position it would be in normal flow moving it from right, left ,top,bottom. 
 
@@ -70,3 +70,45 @@ linking to a specific part of the another page
 `fixed layout` used pixels tp specify the width of esch box.
 
 `liquid layout` uses percentage.
+
+
+# Javascript
+
+
+## what is function?
+Functions let you group a series of statements together  to perform a specific.
+code block is consisted of one or more statements contained with curly braces.parameters
+return value
+
+## Declaring a Function
+
+To declare a function you need to give the function a name and followed by a statement inside a curly braces{}.
+``` 
+function yourName {
+  documnent.write('Name');
+}
+
+```
+## Calling a Function
+
+to run the code you use the function name followed by ().in this case:
+```
+yourName();
+```
+
+## Declaring a function using a parameters
+```
+function areaSize(width,height){
+  return width * height;
+}
+```
+`width and height` are parameters.
+```
+arguments as values
+areasize(3,5);
+
+arguments as variables
+areaWidth=3
+areaHeight=5
+areaSize(areaWidth,areaHeight);
+```
