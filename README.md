@@ -40,7 +40,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 5 .[class-05.md](./class-05.md)
 
-6 .
+6 .[class-06.md](./class-06.md)
 
 7 .
 
