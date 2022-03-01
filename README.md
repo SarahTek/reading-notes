@@ -30,7 +30,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 ## Table of contents
 
 
-1.[class-01.md](class-01.md)
+1.[class-01.md](/class-01.md)
 
 2 .[class-02.md](class-02.md)
 
