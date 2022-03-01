@@ -30,17 +30,17 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 ## Table of contents
 
 
-1.[class-01.md](./class-01.md)
+1.[class-01.md](class-01.md)
 
-2 .[class-02.md](./class-02.md)
+2 .[class-02.md](class-02.md)
 
-3 .[class-03.md](./class-03.md)
+3 .[class-03.md](class-03.md)
 
-4 .[class-04.md](./class-04.md)
+4 .[class-04.md](class-04.md)
 
-5 .[class-05.md](./class-05.md)
+5 .[class-05.md](class-05.md)
 
-6 .[class-06.md](./class-06.md)
+6 .[class-06.md](class-06.md)
 
 7 .
 
