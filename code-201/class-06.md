@@ -7,6 +7,7 @@ variable is part of an object, it is also called Property. it itells about the o
 a function is also part of an objects it is also called a method. it represents the task that are associated with the object.
 
 # Document Object Model (DOM)
+
 The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web.
 there are four types of DOM.
 ## Four types of DOM
@@ -28,5 +29,29 @@ working with the DOM involves 2 steps
 ```
 for (var i = 0 i < hotItems.length; i++){
   hotItems[i].classname = 'cool';
+}
+```
+## work with those element
+`nodeValue` access or update content in the text node.
+`innerHTML` allows access to child element and text content
+`textContent` allows access to text content
+`createElement` creates new node
+`appendChild` addes node to a tree
+`removeChild` removes node from a tree
+`hasAttribute` checks an attribute if it exists
+`getAttribute` gets the value
+`setAttribute` updates the value
+`removeAttribute`  remove an attribute
+
+- methods that find elements in DOM tree are called DOM queries.
+- A nodelist is a collection of element nodes.
+
+### Looping through a nodelist example
+```
+var hotItems = document.querySelectorsAll('li.hot');
+if (hotItems.length > 0){
+  for (var i = 0; i <hotItems.length; i++){
+    hotItems[i].className = 'cool';
+      }
 }
 ```
