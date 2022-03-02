@@ -32,19 +32,18 @@ for (var i = 0 i < hotItems.length; i++){
 }
 ```
 ## work with those element
-`nodeValue` access or update content in the text node.
-`innerHTML` allows access to child element and text content
-`textContent` allows access to text content
-`createElement` creates new node
-`appendChild` addes node to a tree
-`removeChild` removes node from a tree
-`hasAttribute` checks an attribute if it exists
-`getAttribute` gets the value
-`setAttribute` updates the value
-`removeAttribute`  remove an attribute
-
-- methods that find elements in DOM tree are called DOM queries.
-- A nodelist is a collection of element nodes.
+- `nodeValue` access or update content in the text node.
+- `innerHTML` allows access to child element and text content
+- `textContent` allows access to text content
+- `createElement` creates new node
+- `appendChild` addes node to a tree
+- `removeChild` removes node from a tree
+- `hasAttribute` checks an attribute if it exists
+- `getAttribute` gets the value
+- `setAttribute` updates the value
+- `removeAttribute`  remove an attribute
+- methods that find elements in DOM tree are called **DOM queries.**
+- A **nodelist** is a collection of element nodes.
 
 ### Looping through a nodelist example
 ```
