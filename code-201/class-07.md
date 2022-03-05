@@ -1,14 +1,14 @@
 ## HTML
 TABLES
-`< table>` element is used to create element.
-`< tr>` table raw  defines a row of cells in a table
-`< td>` table data defines a cell of a table that contains data.
-`< th>` table heading defines a header cell in an HTML table.
-`< thead>` is used to group header content in an HTML table. 
-`< tbody>` is used to group the body content in an HTML table.
-`< tfoot>` tag is used to group footer content in an HTML table
- `colspan` attribute indicates how many colums the cell should run.
-`rowspan` attribute indicates how many raws the cell should run.
+- `< table>` element is used to create element.
+- `< tr>` table raw  defines a row of cells in a table
+- `< td>` table data defines a cell of a table that contains data.
+- `< th>` table heading defines a header cell in an HTML table.
+- `< thead>` is used to group header content in an HTML table. 
+- `< tbody>` is used to group the body content in an HTML table.
+- `< tfoot>` tag is used to group footer content in an HTML table
+ - `colspan` attribute indicates how many colums the cell should run.
+- `rowspan` attribute indicates how many raws the cell should run.
 ## creating an object
 to create an object we need an object, key and value.
 literal notation
