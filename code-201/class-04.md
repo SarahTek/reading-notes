@@ -58,18 +58,15 @@ linking to a specific part of the another page
 
 ### Clearing floats
 
-`clear`: prperty allows you to say that no element should touch the left or right side of s box.
+- `clear`: prperty allows you to say that no element should touch the left or right side of s box.
+  - `clear: right`;(right-hand side of the box will not touch an element)
+  - `clear: left`;(left-hand side of the box eill not touch an element)
+  - `clear: both`;(neither left nor right side will touch an element)
+  - `clear: none`;(elements can touch either side)
 
-`clear`{
-  `clear: right`;(right-hand side of the box will not touch an element)
-  `clear: left`;(left-hand side of the box eill not touch an element)
-  `clear: both`;(neither left nor right side will touch an element)
-  `clear: none`;(elements can touch either side)
-}
+- `fixed layout` used pixels tp specify the width of esch box.
 
-`fixed layout` used pixels tp specify the width of esch box.
-
-`liquid layout` uses percentage.
+- `liquid layout` uses percentage.
 
 
 # Javascript
