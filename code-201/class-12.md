@@ -1,4 +1,4 @@
-Canvas
+# Canvas
 canvas are better to display data than tables
 we start with chart.js and plagin the HTML canvas element from the HTML file to draw a graph like (bar charts, line charts, pie charts and so on..)
 ```
