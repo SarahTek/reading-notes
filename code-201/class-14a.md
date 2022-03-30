@@ -38,38 +38,15 @@ div {
 With CSS3 transitions you can change the behaviour and apperance of an element, such as when it is hovered over, focused on, active, or targeted.
 
 ## some examples of the Simple CSS3 Transitions
-1. fade in 
-```
-.fade
-{
-        opacity:0.5;
-}
-.fade:hover
-{
-        opacity:1;
-}
-```
-2. Change color
-```
-.color:hover
-{
-        background:#53a7ea;
-}
-```
-3. Grow and shrink
-```
-.grow:hover
-{
-        -webkit-transform: scale(1.3);
-        -ms-transform: scale(1.3);
-        transform: scale(1.3);
-}
-```
-```
-.shrink:hover
-{
-        -webkit-transform: scale(0.8);
-        -ms-transform: scale(0.8);
-        transform: scale(0.8);
-}
-```
+- fade in 
+- Change color
+- Grow and shrink
+- rotate element
+- square to circle
+- 3D shadow
+- swing
+- inset border
+
+website: 
+- [CSS3 Transitions](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
+- [CSS3 Transforms, Transitions and Animations](https://learn.shayhowe.com/advanced-html-css/)
