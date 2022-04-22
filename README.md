@@ -43,20 +43,20 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 6 .[class-06.md](code-201/class-06.md)
 
-7 .
+7 .[class-07.md](code-201/class-07.md)
 
-8 .
+8 .[class-08.md](code-201/class-08.md)
 
-9 .
+9 .[class-09.md](code-201/class-09.md)
 
-10 .
+10 .[class-10.md](code-201/class-10.md)
 
-11 .
+11 . [class-11.md](code-201/class-11.md) 
 
-12 .
+12 . [class-12.md](code-201/class-12.md)
 
-13 .
+13 . [class-13.md](code-201/class-13.md)
 
-14 .
+14 .[class-14.md](code-201/class-14.md)
 
-15 .
+15 .[class-15.md](code-201/class-15.md)
