@@ -69,3 +69,5 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 # Code 301 Reading Notes
 
 ## Table of contents
+1. [class-01.md](code-301/class-01.md)
+2. [class-02.md](code-301/class-02.md)
