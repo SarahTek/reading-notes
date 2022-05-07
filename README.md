@@ -72,3 +72,5 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 1. [class-01.md](code-301/class-01.md)
 2. [class-02.md](code-301/class-02.md)
 3. [class-03.md](code-301/class-03.md)
+4. [class-04.md](code-301/class-04.md)
+5. [class-05.md](code-301/class-05.md)
