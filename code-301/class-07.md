@@ -1,3 +1,5 @@
+# REST
+
 1. Who is Roy Fielding?
 - He helped write the first web servers, that sent documents across the internet… and then he did a ton of research explaining why the web works the way it does.
 2. Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
@@ -12,7 +14,7 @@
 7. What does PATCH do?
 -  The PATCH method is used for making partial changes to an existing resource. 
 
-
+## API Keys
 
 Geocoding API
 1. Did you get your API key?  Yes
