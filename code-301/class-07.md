@@ -20,12 +20,15 @@ Geocoding API
 1. Did you get your API key?  Yes
 
 Weather Bit API
+
 2. Did you get your API key? Yes
 
 Yelp API Docs
+
 3. Did you get your API key? Yes
 
 The Movie DB API Docs
+
 4. Did you get your API key? Yes
 
 
