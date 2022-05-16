@@ -13,8 +13,10 @@
 - https://adventure-works.com/orders
 7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 - it means that requiring consumer to make tremendous amount of distinct API calls to get needed information about a resource. It is not a good thing. instead  denormalize the data and combine related information into bigger resources that can be retrieved with a single request.
+8. What status code does a successful GET request return?
+- status code 200 (OK).
 9. What status code does an unsuccessful GET request return?
-- status 404 (Not Found).
+- status code 404 (Not Found).
 10. What status code does a successful POST request return?
 - status code 201 (Created).
 11. What status code does a successful DELETE request return?
