@@ -1,5 +1,6 @@
 # Passing Functions as props
 
+
 1. What does .map() return?
 
 Unlike forEach() , It returns It returns a new array and elements of arrays are result of callback function.
