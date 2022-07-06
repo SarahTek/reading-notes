@@ -93,4 +93,4 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 ## Table of contents
 
-1.
+1. [Bash-practice](code-401/Bash-Practice)
