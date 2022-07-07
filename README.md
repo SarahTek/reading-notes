@@ -94,3 +94,4 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 ## Table of contents
 
 1. [Bash-practice](code-401/Bash-Practice.md)
+2. [The Growth mindset](code-401/The-Growth-Mindset.md)
