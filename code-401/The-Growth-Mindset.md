@@ -9,3 +9,6 @@
 ## Resources
 
 - [web.archive.org](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
+- [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+- [Grit: The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
+- [A kinder, gentler philosophy of success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
