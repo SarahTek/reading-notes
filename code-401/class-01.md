@@ -11,3 +11,7 @@
 3. What is Node used for?
 
 - It is a used as backend service where javascript works on the server-side of the application. 
+
+
+ ## Resources
+ - [What is Node?](https://www.sitepoint.com/an-introduction-to-node-js/)
