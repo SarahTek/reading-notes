@@ -97,3 +97,4 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 2. [The Growth mindset](code-401/The-Growth-Mindset.md)
 3. [SQL Notes](code-401/SQL-exercise)
 4. [class-01](cede-401/class-01.md)
+5. [class-02](cede-401/class-02.md)
