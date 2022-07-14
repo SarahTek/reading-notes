@@ -93,8 +93,8 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 ## Table of contents
 
-1. [Bash-practice](code-401/Bash-Practice.md)
-2. [The Growth mindset](code-401/The-Growth-Mindset.md)
-3. [SQL Notes](code-401/SQL-exercise)
-4. [class-01](cede-401/class-01.md)
-5. [class-02](cede-401/class-02.md)
+1. [Bash-practice](code-401/401-prework/Bash-Practice.md)
+2. [The Growth mindset](code-401/401-prework/The-Growth-Mindset.md)
+3. [SQL Notes](code-401/401-prework/SQL-exercise)
+4. [class-01](code-401/class-01.md)
+5. [class-02](code-401/class-02.md)
