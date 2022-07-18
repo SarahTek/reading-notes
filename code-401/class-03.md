@@ -36,3 +36,8 @@
 3. What do we use route middleware for?
 
 - the use of route in middleware to define the endpoints at which requests can be made.
+
+## Resources
+- [ES6 classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [Using Express Routing](https://expressjs.com/en/guide/routing.html)
+- [Express Routing](https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4)
