@@ -101,3 +101,4 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 6. [class-03](code-401/class-03.md)
 7. [class-04](code-401/class-04.md)
 8. [class-05](code-401/class-05.md)
+9. [class-06](code-401/class-06.md)
