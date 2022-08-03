@@ -53,4 +53,4 @@ Intro to JWT
 - [Are JWTs Secure?](https://stackoverflow.com/questions/27301557/if-you-can-decode-jwt-how-are-they-secure)
 - [JWTs Explained](https://www.youtube.com/watch?v=926mknSW9Lo)
 - [npm jsonwebtoken docs](https://www.npmjs.com/package/jsonwebtoken)
-- [](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+- [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
