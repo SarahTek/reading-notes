@@ -1,7 +1,7 @@
 
 # About Me
 
-Hey everyone!My name is Sarah Teklemariam .I am a software development student at codefellows. My background is in Healthcare. I am so excited to begin my journey as a career in software development. 
+Hey everyone!My name is Sarah Teklemariam .I am a software development student at codefellows. My background is in Healthcare. I am so excited to begin my journey as a career in software development.
 
 # Code 102 Reading Notes
 
@@ -24,12 +24,9 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 [GrowthMindset.md](code-102/GrowthMindset.md)
 
-
-
 # Code 201 Reading Notes
 
 ## Table of contents
-
 
 1.[class-01.md](code-201/class-01.md)
 
@@ -51,7 +48,7 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 
 10 .[class-10.md](code-201/class-10.md)
 
-11 . [class-11.md](code-201/class-11.md) 
+11 . [class-11.md](code-201/class-11.md)
 
 12 . [class-12.md](code-201/class-12.md)
 
@@ -60,11 +57,6 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 14 .[class-14.md](code-201/class-14.md)
 
 15 .[class-15.md](code-201/class-15.md)
-
-
-
-
-
 
 # Code 301 Reading Notes
 
@@ -86,9 +78,6 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 14. [class-14.md](code-301/class-14.md)
 15. [class-15.md](code-301/class-15.md)
 
-
-
-
 # Code 401 Reading Notes
 
 ## Table of contents
@@ -104,3 +93,4 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 9. [class-06](code-401/class-06.md)
 10. [class-07](code-401/class-07.md)
 11. [class-08](code-401/class-08.md)
+12. [class-10](code-401/class-10.md)
