@@ -40,3 +40,9 @@
 - Websockets provide real-time updates and open lines of communication.
 
 - A single server can have multiple WebSocket connections open simultaneously, and can even have multiple connections with the same client, which opens the door for scalability.
+
+## Resources
+
+- [Web sockets](https://en.wikipedia.org/wiki/WebSocket)
+- [socket-tutorial](https://www.tutorialspoint.com/socket.io/)
+- [web socket vs socket.io](https://www.educba.com/websocket-vs-socket-io/)
