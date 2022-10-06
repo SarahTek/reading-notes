@@ -45,3 +45,10 @@ the state hook
   - the initial state
 - What does useState return?
   - The current state and the function that updates the state.
+
+## Resources
+
+- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html#motivation)
+- [hooks api](https://reactjs.org/docs/hooks-overview.html)
+- [the state hooks](https://reactjs.org/docs/hooks-state.html)
+- [w3schools](w3schools.com/react/react_usestate.asp)
