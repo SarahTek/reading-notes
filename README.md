@@ -116,3 +116,6 @@ Hey everyone!My name is Sarah Teklemariam .I am a software development student a
 32. [class-37](code-401/class-37.md)
 33. [class-38](code-401/class-38.md)
 34. [class-39](code-401/class-39.md)
+35. [class-41](code-401/class-41.md)
+36. [class-42](code-401/class-42.md)
+37. [class-43](code-401/class-43.md)
